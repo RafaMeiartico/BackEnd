@@ -1,0 +1,14 @@
+C:\Users\53961007888\Desktop\atividadeAgora\QntGastos\bin\Debug\net9.0\QntGastos.exe
+C:\Users\53961007888\Desktop\atividadeAgora\QntGastos\bin\Debug\net9.0\QntGastos.deps.json
+C:\Users\53961007888\Desktop\atividadeAgora\QntGastos\bin\Debug\net9.0\QntGastos.runtimeconfig.json
+C:\Users\53961007888\Desktop\atividadeAgora\QntGastos\bin\Debug\net9.0\QntGastos.dll
+C:\Users\53961007888\Desktop\atividadeAgora\QntGastos\bin\Debug\net9.0\QntGastos.pdb
+C:\Users\53961007888\Desktop\atividadeAgora\QntGastos\obj\Debug\net9.0\QntGastos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53961007888\Desktop\atividadeAgora\QntGastos\obj\Debug\net9.0\QntGastos.AssemblyInfoInputs.cache
+C:\Users\53961007888\Desktop\atividadeAgora\QntGastos\obj\Debug\net9.0\QntGastos.AssemblyInfo.cs
+C:\Users\53961007888\Desktop\atividadeAgora\QntGastos\obj\Debug\net9.0\QntGastos.csproj.CoreCompileInputs.cache
+C:\Users\53961007888\Desktop\atividadeAgora\QntGastos\obj\Debug\net9.0\QntGastos.dll
+C:\Users\53961007888\Desktop\atividadeAgora\QntGastos\obj\Debug\net9.0\refint\QntGastos.dll
+C:\Users\53961007888\Desktop\atividadeAgora\QntGastos\obj\Debug\net9.0\QntGastos.pdb
+C:\Users\53961007888\Desktop\atividadeAgora\QntGastos\obj\Debug\net9.0\QntGastos.genruntimeconfig.cache
+C:\Users\53961007888\Desktop\atividadeAgora\QntGastos\obj\Debug\net9.0\ref\QntGastos.dll

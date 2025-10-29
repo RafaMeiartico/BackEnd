@@ -1,0 +1,14 @@
+C:\Users\53961007888\Desktop\atividadeAgora\CompraMaca\bin\Debug\net9.0\CompraMaca.exe
+C:\Users\53961007888\Desktop\atividadeAgora\CompraMaca\bin\Debug\net9.0\CompraMaca.deps.json
+C:\Users\53961007888\Desktop\atividadeAgora\CompraMaca\bin\Debug\net9.0\CompraMaca.runtimeconfig.json
+C:\Users\53961007888\Desktop\atividadeAgora\CompraMaca\bin\Debug\net9.0\CompraMaca.dll
+C:\Users\53961007888\Desktop\atividadeAgora\CompraMaca\bin\Debug\net9.0\CompraMaca.pdb
+C:\Users\53961007888\Desktop\atividadeAgora\CompraMaca\obj\Debug\net9.0\CompraMaca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53961007888\Desktop\atividadeAgora\CompraMaca\obj\Debug\net9.0\CompraMaca.AssemblyInfoInputs.cache
+C:\Users\53961007888\Desktop\atividadeAgora\CompraMaca\obj\Debug\net9.0\CompraMaca.AssemblyInfo.cs
+C:\Users\53961007888\Desktop\atividadeAgora\CompraMaca\obj\Debug\net9.0\CompraMaca.csproj.CoreCompileInputs.cache
+C:\Users\53961007888\Desktop\atividadeAgora\CompraMaca\obj\Debug\net9.0\CompraMaca.dll
+C:\Users\53961007888\Desktop\atividadeAgora\CompraMaca\obj\Debug\net9.0\refint\CompraMaca.dll
+C:\Users\53961007888\Desktop\atividadeAgora\CompraMaca\obj\Debug\net9.0\CompraMaca.pdb
+C:\Users\53961007888\Desktop\atividadeAgora\CompraMaca\obj\Debug\net9.0\CompraMaca.genruntimeconfig.cache
+C:\Users\53961007888\Desktop\atividadeAgora\CompraMaca\obj\Debug\net9.0\ref\CompraMaca.dll

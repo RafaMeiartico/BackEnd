@@ -1,0 +1,14 @@
+C:\Users\53961007888\Desktop\atividadeAgora\VerifSenha\obj\Debug\net9.0\VerifSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53961007888\Desktop\atividadeAgora\VerifSenha\obj\Debug\net9.0\VerifSenha.AssemblyInfoInputs.cache
+C:\Users\53961007888\Desktop\atividadeAgora\VerifSenha\obj\Debug\net9.0\VerifSenha.AssemblyInfo.cs
+C:\Users\53961007888\Desktop\atividadeAgora\VerifSenha\obj\Debug\net9.0\VerifSenha.csproj.CoreCompileInputs.cache
+C:\Users\53961007888\Desktop\atividadeAgora\VerifSenha\bin\Debug\net9.0\VerifSenha.exe
+C:\Users\53961007888\Desktop\atividadeAgora\VerifSenha\bin\Debug\net9.0\VerifSenha.deps.json
+C:\Users\53961007888\Desktop\atividadeAgora\VerifSenha\bin\Debug\net9.0\VerifSenha.runtimeconfig.json
+C:\Users\53961007888\Desktop\atividadeAgora\VerifSenha\bin\Debug\net9.0\VerifSenha.dll
+C:\Users\53961007888\Desktop\atividadeAgora\VerifSenha\bin\Debug\net9.0\VerifSenha.pdb
+C:\Users\53961007888\Desktop\atividadeAgora\VerifSenha\obj\Debug\net9.0\VerifSenha.dll
+C:\Users\53961007888\Desktop\atividadeAgora\VerifSenha\obj\Debug\net9.0\refint\VerifSenha.dll
+C:\Users\53961007888\Desktop\atividadeAgora\VerifSenha\obj\Debug\net9.0\VerifSenha.pdb
+C:\Users\53961007888\Desktop\atividadeAgora\VerifSenha\obj\Debug\net9.0\VerifSenha.genruntimeconfig.cache
+C:\Users\53961007888\Desktop\atividadeAgora\VerifSenha\obj\Debug\net9.0\ref\VerifSenha.dll

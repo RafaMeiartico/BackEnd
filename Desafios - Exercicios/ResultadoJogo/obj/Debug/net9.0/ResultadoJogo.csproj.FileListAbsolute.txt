@@ -1,0 +1,14 @@
+C:\Users\53961007888\Desktop\atividadeAgora\ResultadoJogo\bin\Debug\net9.0\ResultadoJogo.exe
+C:\Users\53961007888\Desktop\atividadeAgora\ResultadoJogo\bin\Debug\net9.0\ResultadoJogo.deps.json
+C:\Users\53961007888\Desktop\atividadeAgora\ResultadoJogo\bin\Debug\net9.0\ResultadoJogo.runtimeconfig.json
+C:\Users\53961007888\Desktop\atividadeAgora\ResultadoJogo\bin\Debug\net9.0\ResultadoJogo.dll
+C:\Users\53961007888\Desktop\atividadeAgora\ResultadoJogo\bin\Debug\net9.0\ResultadoJogo.pdb
+C:\Users\53961007888\Desktop\atividadeAgora\ResultadoJogo\obj\Debug\net9.0\ResultadoJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53961007888\Desktop\atividadeAgora\ResultadoJogo\obj\Debug\net9.0\ResultadoJogo.AssemblyInfoInputs.cache
+C:\Users\53961007888\Desktop\atividadeAgora\ResultadoJogo\obj\Debug\net9.0\ResultadoJogo.AssemblyInfo.cs
+C:\Users\53961007888\Desktop\atividadeAgora\ResultadoJogo\obj\Debug\net9.0\ResultadoJogo.csproj.CoreCompileInputs.cache
+C:\Users\53961007888\Desktop\atividadeAgora\ResultadoJogo\obj\Debug\net9.0\ResultadoJogo.dll
+C:\Users\53961007888\Desktop\atividadeAgora\ResultadoJogo\obj\Debug\net9.0\refint\ResultadoJogo.dll
+C:\Users\53961007888\Desktop\atividadeAgora\ResultadoJogo\obj\Debug\net9.0\ResultadoJogo.pdb
+C:\Users\53961007888\Desktop\atividadeAgora\ResultadoJogo\obj\Debug\net9.0\ResultadoJogo.genruntimeconfig.cache
+C:\Users\53961007888\Desktop\atividadeAgora\ResultadoJogo\obj\Debug\net9.0\ref\ResultadoJogo.dll

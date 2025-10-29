@@ -1,0 +1,14 @@
+C:\Users\53961007888\Desktop\atividadeAgora\Triangulo\obj\Debug\net9.0\Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53961007888\Desktop\atividadeAgora\Triangulo\obj\Debug\net9.0\Triangulo.AssemblyInfoInputs.cache
+C:\Users\53961007888\Desktop\atividadeAgora\Triangulo\obj\Debug\net9.0\Triangulo.AssemblyInfo.cs
+C:\Users\53961007888\Desktop\atividadeAgora\Triangulo\obj\Debug\net9.0\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\53961007888\Desktop\atividadeAgora\Triangulo\bin\Debug\net9.0\Triangulo.exe
+C:\Users\53961007888\Desktop\atividadeAgora\Triangulo\bin\Debug\net9.0\Triangulo.deps.json
+C:\Users\53961007888\Desktop\atividadeAgora\Triangulo\bin\Debug\net9.0\Triangulo.runtimeconfig.json
+C:\Users\53961007888\Desktop\atividadeAgora\Triangulo\bin\Debug\net9.0\Triangulo.dll
+C:\Users\53961007888\Desktop\atividadeAgora\Triangulo\bin\Debug\net9.0\Triangulo.pdb
+C:\Users\53961007888\Desktop\atividadeAgora\Triangulo\obj\Debug\net9.0\Triangulo.dll
+C:\Users\53961007888\Desktop\atividadeAgora\Triangulo\obj\Debug\net9.0\refint\Triangulo.dll
+C:\Users\53961007888\Desktop\atividadeAgora\Triangulo\obj\Debug\net9.0\Triangulo.pdb
+C:\Users\53961007888\Desktop\atividadeAgora\Triangulo\obj\Debug\net9.0\Triangulo.genruntimeconfig.cache
+C:\Users\53961007888\Desktop\atividadeAgora\Triangulo\obj\Debug\net9.0\ref\Triangulo.dll

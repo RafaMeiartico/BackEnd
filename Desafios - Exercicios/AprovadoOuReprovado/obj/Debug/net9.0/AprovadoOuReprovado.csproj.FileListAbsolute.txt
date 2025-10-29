@@ -1,0 +1,14 @@
+C:\Users\53961007888\Desktop\atividadeAgora\AprovadoOuReprovado\bin\Debug\net9.0\AprovadoOuReprovado.exe
+C:\Users\53961007888\Desktop\atividadeAgora\AprovadoOuReprovado\bin\Debug\net9.0\AprovadoOuReprovado.deps.json
+C:\Users\53961007888\Desktop\atividadeAgora\AprovadoOuReprovado\bin\Debug\net9.0\AprovadoOuReprovado.runtimeconfig.json
+C:\Users\53961007888\Desktop\atividadeAgora\AprovadoOuReprovado\bin\Debug\net9.0\AprovadoOuReprovado.dll
+C:\Users\53961007888\Desktop\atividadeAgora\AprovadoOuReprovado\bin\Debug\net9.0\AprovadoOuReprovado.pdb
+C:\Users\53961007888\Desktop\atividadeAgora\AprovadoOuReprovado\obj\Debug\net9.0\AprovadoOuReprovado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53961007888\Desktop\atividadeAgora\AprovadoOuReprovado\obj\Debug\net9.0\AprovadoOuReprovado.AssemblyInfoInputs.cache
+C:\Users\53961007888\Desktop\atividadeAgora\AprovadoOuReprovado\obj\Debug\net9.0\AprovadoOuReprovado.AssemblyInfo.cs
+C:\Users\53961007888\Desktop\atividadeAgora\AprovadoOuReprovado\obj\Debug\net9.0\AprovadoOuReprovado.csproj.CoreCompileInputs.cache
+C:\Users\53961007888\Desktop\atividadeAgora\AprovadoOuReprovado\obj\Debug\net9.0\AprovadoOuReprovado.dll
+C:\Users\53961007888\Desktop\atividadeAgora\AprovadoOuReprovado\obj\Debug\net9.0\refint\AprovadoOuReprovado.dll
+C:\Users\53961007888\Desktop\atividadeAgora\AprovadoOuReprovado\obj\Debug\net9.0\AprovadoOuReprovado.pdb
+C:\Users\53961007888\Desktop\atividadeAgora\AprovadoOuReprovado\obj\Debug\net9.0\AprovadoOuReprovado.genruntimeconfig.cache
+C:\Users\53961007888\Desktop\atividadeAgora\AprovadoOuReprovado\obj\Debug\net9.0\ref\AprovadoOuReprovado.dll
