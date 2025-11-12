@@ -133,7 +133,7 @@ void Transferencia()
     Console.Write($"Valor para transferir: ");
     float valor = float.Parse(Console.ReadLine());
 
-    if (saldos[idDestino] >= valor && valor > 0) 
+    if (saldos[idOrigem] >= valor && valor > 0) 
     {
         //transfere de boa
         saldos[idOrigem] -= valor;
