@@ -10,7 +10,7 @@ namespace Heranca
             Console.WriteLine($"Modelo: {Modelo}");
             Console.WriteLine($"Ano: {Ano}");
             Console.WriteLine($"Quantidade de Portas: {QtdPortas}");
-            
+            Console.WriteLine();
         }
     }
 }
